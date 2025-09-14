@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Group_215" data-name="Group 215" transform="translate(-910 -779)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="37.5" cy="37.5" r="37.5" transform="translate(910 779)" fill="rgba(234,43,111,0.13)" opacity="0.448"/>
+    <g id="Icon_Travel_Two-Tone_Vehicle_Truck" data-name="Icon/Travel/Two-Tone/Vehicle/Truck" transform="translate(927 796)">
+      <g id="Icon" transform="translate(3.417 6.832)">
+        <path id="Fill_1" data-name="Fill 1" d="M25.626,27.334A5.132,5.132,0,0,1,20.5,22.208H13.667a5.125,5.125,0,1,1-10.251,0H1.708A1.71,1.71,0,0,1,0,20.5V1.708A1.71,1.71,0,0,1,1.708,0h20.5a1.711,1.711,0,0,1,1.71,1.708V17.4a4.958,4.958,0,0,1,1.708-.317,5.125,5.125,0,0,1,0,10.251Zm0-6.834a1.709,1.709,0,1,0,1.708,1.708A1.71,1.71,0,0,0,25.626,20.5Zm-17.083,0a1.709,1.709,0,1,0,1.708,1.708A1.711,1.711,0,0,0,8.542,20.5Z" transform="translate(0 0)" fill="#ea2b6f"/>
+        <path id="Fill_3" data-name="Fill 3" d="M8.748,4.624,5.627,1.5A5.091,5.091,0,0,0,2,0H0V10.564a5.061,5.061,0,0,1,1.708-.316,5.131,5.131,0,0,1,5.125,5.125H8.542a1.707,1.707,0,0,0,1.708-1.708V8.25a5.094,5.094,0,0,0-1.5-3.625" transform="translate(23.917 6.834)" fill="#ea2b6f" opacity="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Group_216" data-name="Group 216" transform="translate(-573 -775)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="37.5" cy="37.5" r="37.5" transform="translate(573 775)" fill="rgba(234,43,111,0.13)" opacity="0.448"/>
+    <g id="Icon_Toggle_Two-Tone_Favorite_Filled_" data-name="Icon/Toggle/Two-Tone/Favorite/Filled " transform="translate(590.5 792)">
+      <g id="Icon" transform="translate(5 5)">
+        <path id="Fill_1" data-name="Fill 1" d="M13.587,10.213,5.25,8.933,1.508.958A1.818,1.818,0,0,0,0,0V25.682l7.433,4.11a1.665,1.665,0,0,0,2.45-1.727L8.447,19.25l6.078-6.225a1.667,1.667,0,0,0-.938-2.812Z" transform="translate(15 0)" fill="#ea2b6f" opacity="0.5"/>
+        <path id="Fill_1-2" data-name="Fill 1" d="M15,0a1.816,1.816,0,0,0-1.51.958L9.749,8.933l-8.335,1.28a1.668,1.668,0,0,0-.94,2.812L6.552,19.25,5.115,28.065a1.665,1.665,0,0,0,2.45,1.727L15,25.682Z" transform="translate(0 0)" fill="#ea2b6f"/>
+      </g>
+    </g>
+  </g>
+</svg>

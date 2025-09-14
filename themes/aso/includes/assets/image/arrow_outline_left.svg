@@ -1,0 +1,7 @@
+<svg id="arrow_outline_left" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="arrow_outline_left-2" data-name="arrow_outline_left">
+    <rect id="bg" width="32" height="32" fill="none"/>
+    <path id="arrow" d="M10,20,0,10,10,0" transform="translate(4 6)" fill="none" stroke="#97a1ac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="arrow-2" data-name="arrow" d="M0,.5H25.163" transform="translate(4 15.5)" fill="none" stroke="#97a1ac" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

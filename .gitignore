@@ -1,0 +1,34 @@
+cat > .gitignore << 'EOF'
+# deps & build
+vendor/
+node_modules/
+
+# app data
+uploads/
+storage/
+cache/
+myphplogs
+
+# env & logs
+.env
+*.log
+logs/
+log/
+*.sql
+*.bak
+
+# archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# هر فایل حجیم مشخص:
+includes.zip
+EOF

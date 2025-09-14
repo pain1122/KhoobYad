@@ -1,0 +1,16 @@
+[22-Dec-2024 21:13:22 Europe/Rome] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/h288319/public_html/panel/filemanager/dialog.php:791
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/filemanager/dialog.php on line 791
+[06-Jan-2025 16:07:05 Europe/Rome] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/h288319/public_html/panel/filemanager/dialog.php:791
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/filemanager/dialog.php on line 791
+[06-Jan-2025 16:07:12 Europe/Rome] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/h288319/public_html/panel/filemanager/dialog.php:791
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/filemanager/dialog.php on line 791
+[06-Jan-2025 16:07:28 Europe/Rome] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home/h288319/public_html/panel/filemanager/dialog.php:791
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/filemanager/dialog.php on line 791

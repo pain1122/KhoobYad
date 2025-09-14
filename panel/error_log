@@ -1,0 +1,1006 @@
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/index.php on line 10
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "page" in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/index.php on line 475
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/index.php on line 477
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_classes in /home/h288319/public_html/panel/index.php on line 480
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 18
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 21
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 26
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 29
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 84
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 154
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 154
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 154
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 154
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 176
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 176
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 176
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 176
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 198
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 198
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 198
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 198
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $nickname in /home/h288319/public_html/panel/navbar.php on line 244
+[04-Dec-2024 20:05:54 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/navbar.php on line 245
+[04-Dec-2024 20:05:55 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[04-Dec-2024 20:05:55 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[04-Dec-2024 20:06:03 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[04-Dec-2024 20:06:03 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[04-Dec-2024 20:06:03 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/login.php on line 64
+[04-Dec-2024 20:06:03 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:03 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "page" in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 21
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 26
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 21
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 26
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 84
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/h288319/public_html/panel/dashboard.php on line 355
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 454
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "days" in /home/h288319/public_html/panel/dashboard.php on line 485
+[04-Dec-2024 20:06:04 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 515
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 21
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 26
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 84
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/h288319/public_html/panel/dashboard.php on line 355
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 454
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "days" in /home/h288319/public_html/panel/dashboard.php on line 485
+[04-Dec-2024 20:07:28 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 515
+[06-Dec-2024 12:55:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "blog_cat" in /home/h288319/public_html/includes/classes/tag.php:32
+Stack trace:
+#0 /home/h288319/public_html/panel/post/add-post.php(86): tag::get_taxonomies()
+#1 /home/h288319/public_html/panel/index.php(594): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/classes/tag.php on line 32
+[06-Dec-2024 12:55:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "blog_cat" in /home/h288319/public_html/includes/classes/tag.php:32
+Stack trace:
+#0 /home/h288319/public_html/panel/tag/edit-tag.php(132): tag::get_taxonomies()
+#1 /home/h288319/public_html/panel/index.php(594): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/classes/tag.php on line 32
+[06-Dec-2024 12:56:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "blog_cat" in /home/h288319/public_html/includes/classes/tag.php:32
+Stack trace:
+#0 /home/h288319/public_html/panel/product/add-class-book.php(291): tag::get_taxonomies()
+#1 /home/h288319/public_html/panel/index.php(594): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/classes/tag.php on line 32
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/index.php on line 10
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/index.php on line 475
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/index.php on line 477
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_classes in /home/h288319/public_html/panel/index.php on line 480
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 15
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/side-bar.php on line 26
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 81
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 154
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 154
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 154
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 154
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 176
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 176
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 176
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 176
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 198
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 198
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $user_granted_access in /home/h288319/public_html/panel/navbar.php on line 198
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in /home/h288319/public_html/panel/navbar.php on line 198
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $nickname in /home/h288319/public_html/panel/navbar.php on line 244
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined variable $role in /home/h288319/public_html/panel/navbar.php on line 245
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Parse error:  syntax error, unexpected identifier "completed", expecting ")" in /home/h288319/public_html/panel/product/add-online-class.php on line 155
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[08-Dec-2024 10:32:45 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/login.php on line 5
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/login.php on line 64
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "page" in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:32:47 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 81
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Trying to access array offset on value of type null in /home/h288319/public_html/panel/dashboard.php on line 355
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 454
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "days" in /home/h288319/public_html/panel/dashboard.php on line 485
+[08-Dec-2024 10:32:48 Asia/Tehran] PHP Warning:  Undefined array key "sm" in /home/h288319/public_html/panel/dashboard.php on line 515
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:32:51 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Deprecated:  Optional parameter $parentId declared before required parameter $categories is implicitly treated as a required parameter in /home/h288319/public_html/panel/post/add-post.php on line 89
+[08-Dec-2024 10:34:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "blog_cat" in /home/h288319/public_html/includes/classes/tag.php:32
+Stack trace:
+#0 /home/h288319/public_html/panel/post/add-post.php(86): tag::get_taxonomies()
+#1 /home/h288319/public_html/panel/index.php(594): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/classes/tag.php on line 32
+[08-Dec-2024 07:06:16 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Deprecated:  Optional parameter $parentId declared before required parameter $categories is implicitly treated as a required parameter in /home/h288319/public_html/panel/post/add-post.php on line 89
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $title in /home/h288319/public_html/panel/post/add-post.php on line 117
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $guid in /home/h288319/public_html/panel/post/add-post.php on line 121
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $content in /home/h288319/public_html/panel/post/add-post.php on line 128
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $seo_title in /home/h288319/public_html/panel/post/add-post.php on line 141
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $seo_keywords in /home/h288319/public_html/panel/post/add-post.php on line 146
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $seo_desc in /home/h288319/public_html/panel/post/add-post.php on line 150
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $canonical in /home/h288319/public_html/panel/post/add-post.php on line 155
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $recomandeds in /home/h288319/public_html/panel/post/add-post.php on line 175
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $recomandeds in /home/h288319/public_html/panel/post/add-post.php on line 177
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /home/h288319/public_html/panel/post/add-post.php on line 177
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $noindex in /home/h288319/public_html/panel/post/add-post.php on line 199
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $cats in /home/h288319/public_html/panel/post/add-post.php on line 216
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $tags in /home/h288319/public_html/panel/post/add-post.php on line 224
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/post/add-post.php on line 232
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/post/add-post.php on line 233
+[08-Dec-2024 10:36:16 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_alt in /home/h288319/public_html/panel/post/add-post.php on line 237
+[08-Dec-2024 07:10:27 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:40:27 Asia/Tehran] PHP Parse error:  syntax error, unexpected identifier "completed", expecting ")" in /home/h288319/public_html/panel/product/add-test-book.php on line 156
+[08-Dec-2024 07:11:18 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $title in /home/h288319/public_html/panel/product/add-test-book.php on line 300
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $guid in /home/h288319/public_html/panel/product/add-test-book.php on line 304
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $content in /home/h288319/public_html/panel/product/add-test-book.php on line 320
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $description in /home/h288319/public_html/panel/product/add-test-book.php on line 323
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $price in /home/h288319/public_html/panel/product/add-test-book.php on line 332
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $sale_price in /home/h288319/public_html/panel/product/add-test-book.php on line 334
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $stock in /home/h288319/public_html/panel/product/add-test-book.php on line 338
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $demo in /home/h288319/public_html/panel/product/add-test-book.php on line 349
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $exclusive in /home/h288319/public_html/panel/product/add-test-book.php on line 359
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $sequential in /home/h288319/public_html/panel/product/add-test-book.php on line 371
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $cats in /home/h288319/public_html/panel/product/add-test-book.php on line 388
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $tags in /home/h288319/public_html/panel/product/add-test-book.php on line 400
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/product/add-test-book.php on line 412
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/product/add-test-book.php on line 414
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_alt in /home/h288319/public_html/panel/product/add-test-book.php on line 418
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $sessions in /home/h288319/public_html/panel/product/add-test-book.php on line 426
+[08-Dec-2024 10:41:18 Asia/Tehran] PHP Warning:  Undefined variable $term_start in /home/h288319/public_html/panel/product/add-test-book.php on line 606
+[08-Dec-2024 07:11:25 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:41:25 Asia/Tehran] PHP Parse error:  syntax error, unexpected identifier "completed", expecting ")" in /home/h288319/public_html/panel/product/add-solution-book.php on line 156
+[08-Dec-2024 07:12:10 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 21
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 36
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 474
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 502
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $title in /home/h288319/public_html/panel/product/add-solution-book.php on line 301
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $guid in /home/h288319/public_html/panel/product/add-solution-book.php on line 305
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $content in /home/h288319/public_html/panel/product/add-solution-book.php on line 321
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $description in /home/h288319/public_html/panel/product/add-solution-book.php on line 324
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $price in /home/h288319/public_html/panel/product/add-solution-book.php on line 333
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $sale_price in /home/h288319/public_html/panel/product/add-solution-book.php on line 335
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $stock in /home/h288319/public_html/panel/product/add-solution-book.php on line 339
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $demo in /home/h288319/public_html/panel/product/add-solution-book.php on line 350
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $exclusive in /home/h288319/public_html/panel/product/add-solution-book.php on line 360
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $sequential in /home/h288319/public_html/panel/product/add-solution-book.php on line 372
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $cats in /home/h288319/public_html/panel/product/add-solution-book.php on line 389
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $tags in /home/h288319/public_html/panel/product/add-solution-book.php on line 401
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/product/add-solution-book.php on line 413
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_src in /home/h288319/public_html/panel/product/add-solution-book.php on line 415
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $thumbnail_alt in /home/h288319/public_html/panel/product/add-solution-book.php on line 419
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $sessions in /home/h288319/public_html/panel/product/add-solution-book.php on line 427
+[08-Dec-2024 10:42:10 Asia/Tehran] PHP Warning:  Undefined variable $term_start in /home/h288319/public_html/panel/product/add-solution-book.php on line 607
+[27-Dec-2024 18:36:19 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:31
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(31): mysqli_query()
+#1 /home/h288319/public_html/panel/index.php(618): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 31
+[27-Dec-2024 19:52:03 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_reverse(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/plans/get-pdf.php:28
+Stack trace:
+#0 /home/h288319/public_html/panel/plans/get-pdf.php(28): array_reverse()
+#1 /home/h288319/public_html/panel/index.php(618): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/plans/get-pdf.php on line 28
+[30-Dec-2024 14:14:53 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_reverse(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/plans/get-pdf.php:28
+Stack trace:
+#0 /home/h288319/public_html/panel/plans/get-pdf.php(28): array_reverse()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/plans/get-pdf.php on line 28
+[31-Dec-2024 11:36:17 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 23
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 38
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 499
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 527
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined variable $menu_title in /home/h288319/public_html/panel/side-bar.php on line 81
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  include_once(defiend-plans/my-plans.php): Failed to open stream: No such file or directory in /home/h288319/public_html/panel/index.php on line 619
+[31-Dec-2024 15:06:17 Asia/Tehran] PHP Warning:  include_once(): Failed opening 'defiend-plans/my-plans.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/h288319/public_html/panel/index.php on line 619
+[31-Dec-2024 11:37:14 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 23
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 38
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 499
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 527
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "plan" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 143
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "interfere_error" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 173
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $week_title in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 239
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "week" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 248
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $total_duration in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 258
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "week" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 273
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "plan" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 305
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "plan" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 312
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $text in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 329
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $start in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 334
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $end in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 338
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link_title1 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 342
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link1 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 346
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link_title2 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 350
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link2 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 354
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link_title3 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 358
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $class_link3 in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 362
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "plan" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 365
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "plan" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 379
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined variable $week_id in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 744
+[31-Dec-2024 15:07:14 Asia/Tehran] PHP Warning:  Undefined array key "week" in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 763
+[02-Jan-2025 19:20:33 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/defined-plans/my-plans.php:181
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 181
+[03-Jan-2025 17:16:08 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 23
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 38
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 499
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 527
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[03-Jan-2025 20:46:08 Asia/Tehran] PHP Parse error:  syntax error, unexpected variable "$day" in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 192
+[03-Jan-2025 17:16:31 Europe/London] PHP Warning:  Constant product_url already defined in /home/h288319/public_html/includes/config.php on line 17
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "remember" in /home/h288319/public_html/panel/index.php on line 23
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "debug" in /home/h288319/public_html/includes/classes/base.php on line 30
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/index.php on line 38
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined variable $type in /home/h288319/public_html/panel/index.php on line 499
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined variable $new_message in /home/h288319/public_html/panel/index.php on line 527
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 18
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/side-bar.php on line 23
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "sub" in /home/h288319/public_html/panel/navbar.php on line 54
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  foreach() argument must be of type array|object, null given in /home/h288319/public_html/panel/navbar.php on line 54
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 70
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined array key "cart" in /home/h288319/public_html/panel/navbar.php on line 85
+[03-Jan-2025 20:46:31 Asia/Tehran] PHP Warning:  Undefined variable $student_name in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 227
+[03-Jan-2025 20:46:48 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:199
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(199): array_push()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 199
+[03-Jan-2025 20:47:50 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:200
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(200): array_push()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 200
+[03-Jan-2025 20:48:07 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:200
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(200): array_push()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 200
+[03-Jan-2025 20:50:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:212
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 212
+[03-Jan-2025 20:53:39 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:215
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(215): array_push()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 215
+[03-Jan-2025 20:53:57 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:215
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(215): array_push()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 215
+[03-Jan-2025 22:47:05 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:214
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(214): in_array()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 214
+[03-Jan-2025 22:47:29 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, string given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:214
+Stack trace:
+#0 /home/h288319/public_html/panel/defined-plans/arrange-plan.php(214): in_array()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 214
+[03-Jan-2025 22:47:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Base::fethhassoc() in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:215
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 215
+[12-Jan-2025 09:57:42 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in /home/h288319/public_html/panel/defined-plans/add-plan.php:186
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/add-plan.php on line 186
+[13-Jan-2025 12:25:36 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:204
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 204
+[13-Jan-2025 12:26:09 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:205
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 205
+[13-Jan-2025 12:26:43 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/defined-plans/arrange-plan.php:205
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/arrange-plan.php on line 205
+[14-Jan-2025 19:56:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Base::is_mobile() in /home/h288319/public_html/panel/defined-plans/my-plans.php:171
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(619): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/defined-plans/my-plans.php on line 171
+[17-Jan-2025 23:21:17 Asia/Tehran] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Base::send_sms(), 2 passed in /home/h288319/public_html/panel/sign-in.php on line 45 and exactly 3 expected in /home/h288319/public_html/includes/classes/base.php:114
+Stack trace:
+#0 /home/h288319/public_html/panel/sign-in.php(45): Base::send_sms()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 114
+[13-Feb-2025 11:56:42 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[13-Feb-2025 11:56:49 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 09:54:57 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 09:55:02 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 09:55:13 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 15:04:42 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 15:05:36 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[25-Feb-2025 15:06:04 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/h288319/public_html/includes/jalali.php:18
+Stack trace:
+#0 /home/h288319/public_html/panel/exams/view.php(70): jdate()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/includes/jalali.php on line 18
+[13-Mar-2025 01:31:13 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_reverse(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/plans/get-pdf.php:28
+Stack trace:
+#0 /home/h288319/public_html/panel/plans/get-pdf.php(28): array_reverse()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/plans/get-pdf.php on line 28
+[13-Mar-2025 03:16:21 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_reverse(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/plans/get-pdf.php:28
+Stack trace:
+#0 /home/h288319/public_html/panel/plans/get-pdf.php(28): array_reverse()
+#1 /home/h288319/public_html/panel/index.php(619): include_once('/home/h288319/p...')
+#2 {main}
+  thrown in /home/h288319/public_html/panel/plans/get-pdf.php on line 28
+[13-Mar-2025 13:33:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "ture" in /home/h288319/public_html/panel/exams/view.php:129
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(634): include_once()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/exams/view.php on line 129
+[13-Mar-2025 14:36:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function in_array_recursive() in /home/h288319/public_html/panel/index.php:647
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/index.php on line 647
+[13-Mar-2025 14:57:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function replace_data() in /home/h288319/public_html/includes/classes/base.php:255
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 255
+[13-Mar-2025 14:58:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function in_array_recursive() in /home/h288319/public_html/includes/classes/base.php:255
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 255
+[13-Mar-2025 14:59:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/h288319/public_html/includes/classes/base.php:255
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 255
+[13-Mar-2025 14:59:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "this" in /home/h288319/public_html/includes/classes/base.php:255
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 255
+[13-Mar-2025 14:59:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function in_array_recursive() in /home/h288319/public_html/includes/classes/base.php:255
+Stack trace:
+#0 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#1 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 255
+[13-Mar-2025 15:00:01 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Base::in_array_recursive(): Argument #2 ($arr) must be of type array, string given, called in /home/h288319/public_html/includes/classes/base.php on line 255 and defined in /home/h288319/public_html/includes/classes/base.php:251
+Stack trace:
+#0 /home/h288319/public_html/includes/classes/base.php(255): Base::in_array_recursive()
+#1 /home/h288319/public_html/panel/index.php(560): Base::in_array_recursive()
+#2 {main}
+  thrown in /home/h288319/public_html/includes/classes/base.php on line 251

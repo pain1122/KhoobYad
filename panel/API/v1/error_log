@@ -1,0 +1,130 @@
+[08-Dec-2024 10:51:50 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[08-Dec-2024 11:14:22 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[24-Dec-2024 00:42:40 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/API/v1/GetDefinedStudyPlans.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetDefinedStudyPlans.php on line 73
+[24-Dec-2024 00:42:55 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/h288319/public_html/panel/API/v1/GetDefinedStudyPlans.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetDefinedStudyPlans.php on line 73
+[03-Jan-2025 18:13:48 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[03-Jan-2025 17:27:39 Europe/London] PHP Parse error:  syntax error, unexpected token ")" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 22
+[03-Jan-2025 17:27:43 Europe/London] PHP Parse error:  syntax error, unexpected token ")" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 22
+[03-Jan-2025 17:27:44 Europe/London] PHP Parse error:  syntax error, unexpected token ")" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 22
+[03-Jan-2025 18:46:42 Europe/London] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 3
+[03-Jan-2025 22:18:45 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[03-Jan-2025 22:18:48 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[03-Jan-2025 22:19:06 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[03-Jan-2025 22:19:12 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[03-Jan-2025 22:19:30 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[03-Jan-2025 22:20:32 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/h288319/public_html/panel/API/v1/GetSession.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 24
+[04-Jan-2025 01:35:18 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:35:20 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:35:21 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:35:23 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:35:30 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:35:58 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:36:07 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:14
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(14): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 14
+[04-Jan-2025 01:36:28 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_search(): Argument #2 ($haystack) must be of type array, null given in /home/h288319/public_html/panel/API/v1/GetSession.php:15
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/GetSession.php(15): array_search()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 15
+[04-Jan-2025 01:40:47 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: array - int in /home/h288319/public_html/panel/API/v1/GetSession.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 23
+[10-Jan-2025 10:20:41 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[12-Jan-2025 10:38:23 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / string in /home/h288319/public_html/panel/API/v1/GetSession.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 43
+[12-Jan-2025 10:38:44 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / string in /home/h288319/public_html/panel/API/v1/GetSession.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 43
+[12-Jan-2025 10:38:58 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / string in /home/h288319/public_html/panel/API/v1/GetSession.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 43
+[12-Jan-2025 10:45:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Undefined constant "JSON" in /home/h288319/public_html/panel/API/v1/GetSession.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/GetSession.php on line 53
+[13-Jan-2025 12:15:22 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[14-Jan-2025 19:17:07 Asia/Tehran] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in /home/h288319/public_html/panel/API/v1/My-Product.php:17
+Stack trace:
+#0 /home/h288319/public_html/panel/API/v1/My-Product.php(17): array_keys()
+#1 {main}
+  thrown in /home/h288319/public_html/panel/API/v1/My-Product.php on line 17
+[07-Feb-2025 11:53:30 Europe/London] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 3
+[07-Feb-2025 11:53:32 Europe/London] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 3
+[20-Feb-2025 16:37:47 Europe/London] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 3
+[25-Feb-2025 14:58:47 Europe/London] PHP Warning:  Undefined array key "uid" in /home/h288319/public_html/panel/API/v1/GetSession.php on line 3

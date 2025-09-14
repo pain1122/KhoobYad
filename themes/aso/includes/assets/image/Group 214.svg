@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Group_214" data-name="Group 214" transform="translate(-1195 -779)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="37.5" cy="37.5" r="37.5" transform="translate(1195 779)" fill="rgba(234,43,111,0.13)" opacity="0.448"/>
+    <g id="Icon_Toggle_Two-Tone_Shield_Filled_" data-name="Icon/Toggle/Two-Tone/Shield/Filled " transform="translate(1215 799)">
+      <g id="Icon" transform="translate(6 3)">
+        <path id="Path" d="M.11,30A2.833,2.833,0,0,0,.8,29.834l.322-.172c.365-.2.858-.493,1.444-.87a29.733,29.733,0,0,0,3.8-2.889c3.567-3.21,5.747-6.854,5.747-10.9V5.55a1.5,1.5,0,0,0-.96-1.4L.653.1A2.773,2.773,0,0,0,.121,0S-.124,30,.11,30Z" transform="translate(11.887 0)" fill="#ea2b6f" opacity="0.5"/>
+        <path id="Path-2" data-name="Path" d="M11.46.1.96,4.151A1.5,1.5,0,0,0,0,5.55V15c0,4.049,2.18,7.693,5.747,10.9a29.733,29.733,0,0,0,3.8,2.889l.554.348c.52.319.935.552,1.212.694A2.746,2.746,0,0,0,12,30l.007-30A2.772,2.772,0,0,0,11.46.1Z" transform="translate(0 0)" fill="#ea2b6f"/>
+      </g>
+    </g>
+  </g>
+</svg>
